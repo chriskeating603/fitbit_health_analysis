@@ -1,6 +1,6 @@
 # Fitbit data analysis
 
-<p align="center"><img width=60% src="https://www.pngfind.com/pngs/m/668-6686466_fitbit-logo-transparent-fitbit-ionic-logo-hd-png.png"></p>
+<p align="center"><img width=60% src="https://www.pngfind.com/pngs/m/659-6591286_fitbit-logo-png-transparent-png.png"></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
