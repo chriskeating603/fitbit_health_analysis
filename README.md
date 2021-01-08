@@ -1,8 +1,6 @@
 # Analyzing 5 Years of Personal Fitbit data
 
 <p align="center"><img width=60% src="https://www.gizmochina.com/wp-content/uploads/2019/11/Fitbit-Logo.jpg"></p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center">
   <img src="https://img.shields.io/badge/python-v3.8+-blue.svg" />
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
