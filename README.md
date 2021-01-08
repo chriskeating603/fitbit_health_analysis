@@ -1,6 +1,6 @@
 # Fitbit data analysis
 
-<p align="center"><img width=60% src="https://www.pngfind.com/pngs/m/659-6591286_fitbit-logo-png-transparent-png.png"></p>
+<p align="center"><img width=60% src="https://www.gizmochina.com/wp-content/uploads/2019/11/Fitbit-Logo.jpg"></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
@@ -16,7 +16,7 @@ I've been collecting personal data on various Fitbit devices for the past five y
 
 <br>
 
-## Last Stable Release
+## The Project
 I wanted to do this study for a couple reasons. First, I've always been a super competitive and driven person, and the opportunity to improve my life and my health is something I will always want to focus on. Secondly, I've been developing analytical skills for many years now, and I think this is a perfect dataset to demonstrate a wide range of capabilities, including:
   - cleaning and transforming messy data
   - engineering features and bringing in data that does not seem to be related on its surface
